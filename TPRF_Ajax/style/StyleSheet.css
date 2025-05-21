@@ -1,0 +1,234 @@
+﻿.menu {text-decoration:none; font-size:9pt;color:white}
+A.menu:link {text-decoration:none; font-size:9pt;color:white}
+A.menu:visited{text-decoration:none; font-size:9pt;color:white}
+A.menu:hover {text-decoration:none; color:black;font-size:9pt}
+A.submenu:link {text-decoration:none; font-size:9pt;color:black}
+A.submenu:visited{text-decoration:none; font-size:9pt;color:black}
+A.submenu:hover {text-decoration:none; color:black;font-size:9pt}
+body 
+{
+	font-size:10pt;	
+	font-family: Arial;
+	font-weight: 550;
+}
+.bottom
+{
+	background-color:#ff9a62;    color:White;    height:20px;
+}
+.Header
+{
+	font-family : Verdana, Arial, Helvetica, sans-serif; color:#993300;font-size:1.6em; 
+}
+.HeadInfor
+{
+	background-color:#CCCCCC;	color:Black;
+}
+.HeadInfor1
+{
+	background-color:#666666;	color:White;
+}
+.HeadInfor2
+{
+	background-color:#E9E9E9;	color:Black;
+}
+.InsertionBandOpen
+{background-color:#CCFFCC;}
+.InsertionBandOpen a:link {text-decoration:none; color:Blue;}
+.InsertionBandOpen a:visited{text-decoration:none; color:Blue;}
+.InsertionBandOpen a:hover {text-decoration:none; color:Olive;}
+
+.InsertionBandClose
+{background-color:#336633;color:White;}
+.InsertionBandClose a:link {text-decoration:none; color:yellow;}
+.InsertionBandClose a:visited{text-decoration:none; color:yellow;}
+.InsertionBandClose a:hover {text-decoration:none; color:white;}
+
+.InsertionBandOpenDefault
+{background-color:#336633;color:White;}
+.InsertionBandOpenDefault a:link {font-size:medium; text-decoration:none; color:yellow;}
+.InsertionBandOpenDefault a:visited{font-size:medium;text-decoration:none; color:yellow;}
+.InsertionBandOpenDefault a:hover {font-size:medium;text-decoration:none; color:white;}
+
+.InsertionBandCloseDefault
+{background-color:#336633;color:White;}
+.InsertionBandCloseDefault a:link {font-size:medium;text-decoration:none; color:yellow;}
+.InsertionBandCloseDefault a:visited{font-size:medium;text-decoration:none; color:yellow;}
+.InsertionBandCloseDefault a:hover {font-size:medium;text-decoration:none; color:white;}
+
+.InsertionBandOpenPending
+{background-color:Orange;color: Black;}
+.InsertionBandOpenPending a:link {font-size:medium;text-decoration:none; color:Blue;}
+.InsertionBandOpenPending a:visited{font-size:medium;text-decoration:none; color:Blue;}
+.InsertionBandOpenPending a:hover {font-size:medium;text-decoration:none; color:Maroon;}
+
+.InsertionBandClosePending
+{background-color:Orange;color:Black;}
+.InsertionBandClosePending a:link {font-size:medium;text-decoration:none; color:Blue;}
+.InsertionBandClosePending a:visited{font-size:medium;text-decoration:none; color:Blue;}
+.InsertionBandClosePending a:hover {font-size:medium;text-decoration:none; color:Maroon;}
+
+.InsertionBandOpenActivated
+{background-color:Gold;color:Black;}
+.InsertionBandOpenActivated a:link {font-size:medium;text-decoration:none; color:Blue;}
+.InsertionBandOpenActivated a:visited{font-size:medium;text-decoration:none; color:Blue;}
+.InsertionBandOpenActivated a:hover {font-size:medium;text-decoration:none; color:Maroon;}
+
+.InsertionBandCloseActivated
+{background-color:Gold;color:Black;}
+.InsertionBandCloseActivated a:link {font-size:medium;text-decoration:none; color:Blue;}
+.InsertionBandCloseActivated a:visited{font-size:medium;text-decoration:none; color:Blue;}
+.InsertionBandCloseActivated a:hover {font-size:medium;text-decoration:none; color:Maroon;}
+
+.InsertionBandOpenHold
+{background-color:Gold;color:Red;}
+.InsertionBandOpenHold a:link {font-size:medium;text-decoration:none; color:Maroon;}
+.InsertionBandOpenHold a:visited{font-size:medium;text-decoration:none; color:Maroon;}
+.InsertionBandOpenHold a:hover {font-size:medium;text-decoration:none; color:Blue;}
+
+.InsertionBandCloseHold
+{background-color:Gold;color:Red;}
+.InsertionBandCloseHold a:link {font-size:medium;text-decoration:none; color:Maroon;}
+.InsertionBandCloseHold a:visited{font-size:medium;text-decoration:none; color:Maroon;}
+.InsertionBandCloseHold a:hover {font-size:medium;text-decoration:none; color:Blue;}
+
+.error
+{
+	color:Red;	font-size:large;
+}
+.tcSub1
+{
+}
+.tcSub1_NonWidth
+{
+	
+}
+.tcContent1
+{
+}
+.tb1
+{
+	background-color:White;
+	border-color:#CC9966;
+	border-width:1px;
+	border-style:solid;	
+	border-collapse:collapse;
+	
+	
+}
+.tb2
+{
+	border-collapse:collapse;
+	background-color:#3E3E3E;
+}
+
+.tb3
+{
+	background-color:White;
+	border-color:#CC9966;
+	border-width:1px;
+	border-style:solid;	
+	border-collapse:collapse;
+	width:100%;
+	margin-bottom:1px;
+}
+
+.tb3 td
+{
+	padding:2px;
+	margin-left: 240px;
+}
+
+.trheader1
+{
+	color:#FFFFCC;
+	background-color:#990000;
+	font-weight:bold;
+}
+.trheader2
+{
+	color:#BBECF0;
+	background-color:#00646C;
+	font-weight:bold;
+}
+.trheader3
+{
+	color:Black;
+	background-color:Silver;
+	/*color:#F0F2F9;
+	background-color:#787F96;*/
+	font-weight:bold;
+}
+.trheader4
+{
+	color:#787F96;
+	background-color:#F0F2F9;
+	font-weight:bold;
+}
+.trheader5
+{
+	color:#D4D9F6;
+	background-color:#2C3EAD;
+	font-weight:bold;
+}
+
+.tritem1
+{
+	background-color:white;
+}
+.tritem2
+{
+	background-color:#DAEDEF;
+}
+.tritem3
+{
+	color:black;
+	background-color:#BBECF0;
+}
+
+.tablepadding td
+{
+	padding: 3px;
+}
+
+.gv td, th
+{
+	white-space:nowrap;
+	padding: 3px;
+}
+
+.gvheadingPlain th
+{
+	font-weight: normal;
+}
+
+.gvheadingPlain, .gvheading
+{
+	background-color:#DCDCDC;
+	color:Black;
+	text-align: center;
+	vertical-align:middle;
+	white-space:nowrap;
+}
+
+.gvheading
+{
+	font-weight: bold; 
+}
+
+.gvalternate
+{
+	color:Maroon;
+	background-color: #f4f4f4;
+	
+}
+
+.gvedit
+{
+	background-color: #EED931;
+}
+
+.wrapper
+{
+	margin:auto;
+	width:990px;
+}

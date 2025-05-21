@@ -1,0 +1,3 @@
+sc create TPRFReleaseService binpath= "E:\TestWeb\TPRF_Ajax\ReleaseService\TPRFReleaseService.exe" start= auto
+sc description TPRFReleaseService "TPRF Auto Release Service"
+sc start TPRFReleaseService

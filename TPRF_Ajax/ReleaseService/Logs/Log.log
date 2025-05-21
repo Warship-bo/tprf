@@ -1,0 +1,53 @@
+9/19/2017 2:39:26 PM    --  TPRF Release Service Frequency Starts......
+9/19/2017 2:39:26 PM    --  TPRF Release Service Before Get Pending List......
+9/19/2017 2:39:27 PM    --  ID:1368;  Customer:HHK;  ReleaseType:1(1-FULL;2-Partial;3-Single File);  ProgramPath:Hi6421/Hi6421GFCV610_FTx12_V93K_R20;  ProgramName:Hi6421GFCV610_FTAx12_V93K_R20.tp
+9/19/2017 2:39:28 PM    --  /usr/local/bin/sudo su - 
+9/19/2017 2:39:33 PM    --  HELLO_123
+9/19/2017 2:39:34 PM    --  cd /nfs1/Environ/scripts/TPRF/logs/
+9/19/2017 2:39:34 PM    --  rm tprf.txt
+9/19/2017 2:39:35 PM    --  cd ..
+9/19/2017 2:39:35 PM    --  Customer: HHK; ScriptName: HHK_program_release.sh
+9/19/2017 2:39:35 PM    --  call script: ./HHK_program_release.sh "Hi6421/Hi6421GFCV610_FTx12_V93K_R20" "FULL" "Hi6421GFCV610_FTAx12_V93K_R20.tp" "R20" "93k"
+9/19/2017 2:40:20 PM    --  0 -- 
+9/19/2017 2:41:05 PM    --  1 -- 
+9/19/2017 2:41:51 PM    --  2 -- 
+9/19/2017 2:42:36 PM    --  3 -- 
+9/19/2017 2:43:21 PM    --  4 -- 
+9/19/2017 2:44:06 PM    --  5 -- 
+9/19/2017 2:44:51 PM    --  6 -- 
+9/19/2017 2:45:37 PM    --  7 -- 
+9/19/2017 2:46:22 PM    --  8 -- 
+9/19/2017 2:47:07 PM    --  9 -- 
+9/19/2017 2:47:52 PM    --  10 -- 
+9/19/2017 2:48:37 PM    --  11 -- 
+9/19/2017 2:49:23 PM    --  12 -- 
+9/19/2017 2:50:08 PM    --  13 -- 
+9/19/2017 2:50:53 PM    --  14 -- 
+9/19/2017 2:51:38 PM    --  15 -- 
+9/19/2017 2:52:23 PM    --  16 -- 
+9/19/2017 2:53:09 PM    --  17 -- 
+9/19/2017 2:53:54 PM    --  18 -- 
+9/19/2017 2:54:39 PM    --  19 -- 
+9/19/2017 2:55:24 PM    --  20 -- 
+9/19/2017 2:55:24 PM    --  TPRF Release Service Before Get Pending Delete List......
+9/19/2017 2:55:28 PM    --  TPRF Release Service Frequency Ends......
+9/19/2017 2:56:28 PM    --  TPRF Release Service Frequency Starts......
+9/19/2017 2:56:28 PM    --  TPRF Release Service Before Get Pending List......
+9/19/2017 2:56:28 PM    --  ID:1368;  Customer:HHK;  ReleaseType:1(1-FULL;2-Partial;3-Single File);  ProgramPath:Hi6421/Hi6421GFCV610_FTx12_V93K_R20;  ProgramName:Hi6421GFCV610_FTAx12_V93K_R20.tp
+9/19/2017 2:56:30 PM    --  /usr/local/bin/sudo su - 
+9/19/2017 2:56:35 PM    --  HELLO_123
+9/19/2017 2:56:35 PM    --  cd /nfs1/Environ/scripts/TPRF/logs/
+9/19/2017 2:56:36 PM    --  rm tprf.txt
+9/19/2017 2:56:36 PM    --  cd ..
+9/19/2017 2:56:36 PM    --  Customer: HHK; ScriptName: HHK_program_release.sh
+9/19/2017 2:56:36 PM    --  call script: ./HHK_program_release.sh "Hi6421/Hi6421GFCV610_FTx12_V93K_R20" "FULL" "Hi6421GFCV610_FTAx12_V93K_R20.tp" "R20" "93k"
+9/19/2017 2:57:22 PM    --  0 -- 
+9/19/2017 2:58:07 PM    --  1 -- 
+9/19/2017 2:58:52 PM    --  2 -- 
+9/19/2017 2:59:37 PM    --  3 -- 
+9/19/2017 3:00:23 PM    --  4 -- 
+9/19/2017 3:01:08 PM    --  5 -- 
+9/19/2017 3:01:53 PM    --  6 -- 
+9/19/2017 3:02:38 PM    --  7 -- 
+9/19/2017 3:03:22 PM    --  TPRF Release Service Stops......
+9/19/2017 3:03:23 PM    --  8 -- 

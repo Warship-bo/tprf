@@ -1,0 +1,2 @@
+sc stop TPRFReleaseService
+sc delete TPRFReleaseService
